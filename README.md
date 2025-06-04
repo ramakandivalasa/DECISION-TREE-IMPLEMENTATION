@@ -114,3 +114,26 @@ In this task, decision trees were used for a supervised classification problem, 
 This project successfully implemented a Decision Tree Classification Model using Scikit-learn in Jupyter Notebook. It involved the complete machine learning pipeline—data loading, preprocessing, model training, evaluation, and visualization. Decision trees are intuitive, interpretable, and powerful for small to medium-sized datasets like Iris. The visual tree representation not only helps in understanding model decisions but also in explaining the logic behind predictions to non-technical stakeholders.
 
 This foundational exercise sets the stage for exploring advanced ensemble methods like Random Forests and Gradient Boosted Trees, which build on single decision trees for better performance and generalization.
+
+## OUTPUT
+Accuracy: 1.0
+
+Classification Report:
+               precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00        10
+           1       1.00      1.00      1.00         9
+           2       1.00      1.00      1.00        11
+
+    accuracy                           1.00        30
+   macro avg       1.00      1.00      1.00        30
+weighted avg       1.00      1.00      1.00        30
+
+
+Confusion Matrix:
+
+ [[10  0  0]
+ [ 0  9  0]
+ [ 0  0 11]]
+ 
+![Image](https://github.com/user-attachments/assets/e568ce04-2587-4a10-963c-6fc7ded39a37)
