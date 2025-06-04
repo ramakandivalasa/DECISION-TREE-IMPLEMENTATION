@@ -14,11 +14,13 @@
 
 ## 📌 Project Title: Building a Decision Tree Model using Scikit-Learn on the Iris Dataset
 🔍 Introduction
+
 This project demonstrates the application of a Decision Tree Classification algorithm using the Scikit-learn library on the popular Iris dataset. The project was implemented in Jupyter Notebook, which is widely used for data science tasks due to its interactivity, easy visualization support, and seamless integration with Python libraries.
 
 The goal of this task was to classify different species of iris flowers (Setosa, Versicolor, and Virginica) based on four flower features: sepal length, sepal width, petal length, and petal width. The project involves a complete pipeline including data loading, preprocessing, model training, evaluation, and visualization of the decision tree.
 
 🔧 Tools and Libraries Used
+
 Python – Core programming language
 
 Jupyter Notebook – Development environment for running and visualizing code
