@@ -10,7 +10,7 @@
 
 *DURATION*: 4 WEEKS
 
-*MENTOR*: NEELA SANTOSH
+*MENTOR*: NEELA SANTHOSH
 
 ## 📌 Project Title: Building a Decision Tree Model using Scikit-Learn on the Iris Dataset
 🔍 Introduction
